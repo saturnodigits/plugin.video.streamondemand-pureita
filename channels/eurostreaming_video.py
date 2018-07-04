@@ -16,7 +16,7 @@ from core.item import Item
 from core.tmdb import infoSod
 
 __channel__ = "eurostreaming_video"
-host = "http://www.eurostreaming.video"
+host = "http://www.eurostreaming.media"
 headers = [['Referer', host]]
 
 
